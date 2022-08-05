@@ -1,0 +1,2 @@
+# Smart-Shopping-Manager
+Money is an important aspect of modern life. Managed well, you can save more and remain stable but if used poorly, results could be devastating. You need to optimize beforehand how to use your money to maximize efficiency.  Without proper attention, it can lead to overspending which would ultimately affect your short-term and long-term goals negatively.  But how to manage your money? That’s where ‘Smart Shopping Manager’ comes in. Using ‘Smart Shopping Manager’, you can shop accordingly without spending any reckless amount of money.
