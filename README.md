@@ -4,6 +4,7 @@ Money is an important aspect of modern life. Managed well, you can save more and
 METHODOLGY
 
 Here, we are using Agile Model and following are the steps:
+
 	1.	Planning: The main requirement is that finances are needed to be managed to avoid excess expenditure. For money management, we are using Knapsack                       algorithm to optimize it and dynamic programming to tackle the Knapsack problem in an efficient manner.
 	
 	2.	Designing: Now, we need a program that can be used to reduce the reckless spending of money and better optimization of it.
@@ -15,7 +16,8 @@ Here, we are using Agile Model and following are the steps:
 Algorithmic Approach
 
 0-1 Knapsack Algorithm:
-	1.	The 0/1 knapsack problem means that the items are either completely or no items are filled in a knapsack.In the 0–1 Knapsack problem, we are given a set of items, each with a weight and a value, and we need to determine the number of each item to include in a collection so that the total weight is less than or equal to a given limit and the total value is as large as possible.
+	1.	The 0/1 knapsack problem means that the items are either completely or no items are filled in a knapsack.In the 0–1 Knapsack problem, we are given a                   set of items, each with a weight and a value, and we need to determine the number of each item to include in a collection so that the total weight is                   less than or equal to a given limit and the total value is as large as possible.
+	
 	2.	Parameters:
 	�	Quantities of the items in terms of units, for example, 9 units.
 	�	Items of the products’ name which user wants to buy.
@@ -33,5 +35,6 @@ References
 	
 	4.	A MAB-Based Knapsack Algorithm for Coexistence of LTE/WiFi in Resource Allocation                 
 	        Optimizationhttps://ieeexplore.ieee.org/abstract/document/9295891/metrics#metrics
-        5.      A combination of the Knapsack algorithm and MIVES for choosing optimal temporary housing site locations: A case study in             
+        
+	5.      A combination of the Knapsack algorithm and MIVES for choosing optimal temporary housing site locations: A case study in             
 	        Tehranhttps://www.sciencedirect.com/science/article/abs/pii/S2212420917303035
